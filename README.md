@@ -1,4 +1,4 @@
 # Kura-Backend
 Kura app
 
-- [フロントエンドリポジトリ](https://github.com/your-org/frontend)
+- [フロントエンドリポジトリ](https://github.com/takumi-ii/Kura-Frontend.git)
